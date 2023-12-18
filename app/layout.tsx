@@ -4,7 +4,6 @@ import "./globals.css";
 import StarsCanvas from "@/components/main/StarBackground";
 import Navbar from "@/components/main/Navbar";
 import Footer from "@/components/main/Footer";
-import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });
 
