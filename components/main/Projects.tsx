@@ -14,17 +14,17 @@ const Projects = () => {
         <ProjectCard
           src="/NextWebsite.png"
           title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Welcome to my portfolio website. This Next.js-powered site serves as a showcase for my creativity and proficiency in web development. Explore my projects, and get in touch to learn more about me and my work."
         />
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Welcome to my interactive website cards showcase, where I display my diverse web development skills and projects. Experience interactive elements and modern web design principles to explore my captivating portfolio!"
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Here, you'll find a diverse collection of my web development projects, with a space theme. Delve into the fascinating world of outer space, and experience interactive elements and modern web design principles like never before!"
         />
       </div>
     </div>
