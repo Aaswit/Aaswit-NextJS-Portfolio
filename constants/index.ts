@@ -91,7 +91,7 @@ export const Skill_data = [
     },
     {
       name: "Linkedin",
-      src: "/linkedin.svg",
+      src: "/LinkedIn.svg",
     },
   ];
   
